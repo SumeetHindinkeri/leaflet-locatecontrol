@@ -219,7 +219,7 @@ You can find the project at: https://github.com/domoritz/leaflet-locatecontrol
             /** If set, the marker at the users' location is drawn. */
             drawMarker: true,
             /** If set and supported then show the compass heading */
-            showCompass: true,
+            showCompass: false,
             /** The class to be used to create the marker. For example L.CircleMarker or L.Marker */
             markerClass: LocationMarker,
             /** The class us be used to create the compass bearing arrow */
